@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPRG211E-AbstractLab", "CPRG211E-AbstractLab\CPRG211E-AbstractLab.csproj", "{E903B079-7951-474B-A458-C46F9729A931}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E903B079-7951-474B-A458-C46F9729A931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E903B079-7951-474B-A458-C46F9729A931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E903B079-7951-474B-A458-C46F9729A931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E903B079-7951-474B-A458-C46F9729A931}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1796BA5-3EC8-4DA9-86CF-5544D047254F}
+	EndGlobalSection
+EndGlobal
